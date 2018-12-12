@@ -1,0 +1,2 @@
+# pycharm
+Actividades de Python
